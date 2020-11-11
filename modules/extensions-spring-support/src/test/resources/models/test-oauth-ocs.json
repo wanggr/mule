@@ -5665,6 +5665,7 @@
                   "isComponentId": false,
                   "valueProviderModel": {
                     "actingParameters": [],
+                    "parameters": [],
                     "partOrder": 1,
                     "providerName": "parameter",
                     "providerId": "org.mule.test.oauth.OAuthValuesProvider",
@@ -15095,6 +15096,7 @@
                   "isComponentId": false,
                   "valueProviderModel": {
                     "actingParameters": [],
+                    "parameters": [],
                     "partOrder": 1,
                     "providerName": "parameter",
                     "providerId": "org.mule.test.oauth.OAuthValuesProvider",
@@ -21628,6 +21630,7 @@
                   "isComponentId": false,
                   "valueProviderModel": {
                     "actingParameters": [],
+                    "parameters": [],
                     "partOrder": 1,
                     "providerName": "parameter",
                     "providerId": "org.mule.test.oauth.OAuthValuesProvider",
@@ -29014,6 +29017,7 @@
                   "isComponentId": false,
                   "valueProviderModel": {
                     "actingParameters": [],
+                    "parameters": [],
                     "partOrder": 1,
                     "providerName": "parameter",
                     "providerId": "org.mule.test.oauth.OAuthValuesProvider",
